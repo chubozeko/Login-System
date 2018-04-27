@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         boolean add = users.add(user3);
 
         /****** Handle new password somehow *******/
-
+        // Here is new code
 
         edit_username = (EditText) findViewById(R.id.username);
         edit_password = (EditText) findViewById(R.id.password);
