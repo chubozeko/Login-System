@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Login System</string>
+    <string name="welcome_text">Welcome to CTT</string>
+    <string name="welcome_btn"> Say Hello </string>
+
+    <string name="forgot_header">Forgot your password?</string>
+    <string name="forgot_email">Enter your email address to recover your password:</string>
+    <string name="forgot_new_pw">Enter your new password:</string>
+    <string name="forgot_pw_btn">Set New Password</string>
+
+    <string-array name="users">
+        <item>Tuhafeni</item>
+        <item>Thato</item>
+        <item>Lloyd</item>
+    </string-array>
+</resources>
